@@ -8,7 +8,7 @@ Aspiring Cloud DevOps and Software Engineer | Passionate about learning and buil
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [oussamaouldrhila4@gmail.com](mailto:oussamaouldrhila4@gmail.com)
-* 🧠  I'm learning DevOps technologies and the MERN stack
+
 
 ### Skills
 
