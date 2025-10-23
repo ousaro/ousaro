@@ -52,9 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://img.icons8.com/fluency/512/firebase.png" width="40" height="40" alt="Firebase" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" width="40" height="40" alt="Firebase" />
   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" height="40" alt="Supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS" />
 </p>
 
 #### ⚙️ **DevOps & Tools**
@@ -93,7 +93,7 @@
   </a>
   <br/>
   <a href="https://github.com/ousaro">
-    <img src="https://streak-stats.demolab.com?user=ousaro&theme=tokyonight&hide_border=true" alt="Oussama's GitHub streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ousaro&theme=tokyonight&hide_border=true" alt="Oussama's GitHub streak" />
   </a>
 </p>
 
