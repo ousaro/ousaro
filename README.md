@@ -14,8 +14,8 @@
 - 🏠 Based in **Morocco**  
 - 💻 Focused on **Cloud, DevOps, and Full-Stack Development**  
 - 🌱 Currently learning **Kubernetes, Terraform, and AWS Cloud Architecture**  
-- ✉️ Contact me at **[oussamaouldrhila4@gmail.com](mailto:oussamaouldrhila4@gmail.com)**  
-- 🌐 Portfolio: [gamified-portfolio-delta.vercel.app](https://gamified-portfolio-delta.vercel.app)  
+- ✉️ Reach me at **[oussamaouldrhila4@gmail.com](mailto:oussamaouldrhila4@gmail.com)**  
+- 🌐 Portfolio: [gamified-portfolio-delta.vercel.app](https://gamified-portfolio-delta.vercel.app)
 
 ---
 
@@ -27,32 +27,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
 </p>
 
 #### ⚛️ **Frontend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+  <img src="https://img.icons8.com/color/512/tailwindcss.png" width="40" height="40" alt="TailwindCSS" />
 </p>
 
 #### 🧩 **Backend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
 </p>
 
 #### 🗄️ **Databases & Cloud**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://img.icons8.com/fluency/512/firebase.png" width="40" height="40" alt="Firebase" />
   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" height="40" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" />
 </p>
 
 #### ⚙️ **DevOps & Tools**
@@ -70,13 +72,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/ousaro" target="_blank" rel="noreferrer">
+  <a href="https://github.com/ousaro" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/oussamaouldrhila/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/oussamaouldrhila/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" />
   </a>
-  <a href="https://gamified-portfolio-delta.vercel.app/" target="_blank" rel="noreferrer">
+  <a href="https://gamified-portfolio-delta.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=111132&format=png" width="36" height="36" alt="Portfolio" />
   </a>
 </p>
@@ -91,7 +93,7 @@
   </a>
   <br/>
   <a href="https://github.com/ousaro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ousaro&theme=tokyonight&hide_border=true" alt="Oussama's GitHub streak" />
+    <img src="https://streak-stats.demolab.com?user=ousaro&theme=tokyonight&hide_border=true" alt="Oussama's GitHub streak" />
   </a>
 </p>
 
